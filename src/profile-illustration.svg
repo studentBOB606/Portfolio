@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Profile illustration</title>
+  <desc id="desc">Simple purple avatar icon for portfolio profile section.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7d5ac8" />
+      <stop offset="100%" stop-color="#2d164f" />
+    </linearGradient>
+  </defs>
+  <rect width="220" height="220" rx="28" fill="url(#bg)"/>
+  <circle cx="110" cy="88" r="34" fill="#efe9ff" opacity="0.95"/>
+  <path d="M58 174c5-28 27-45 52-45s47 17 52 45" fill="#efe9ff" opacity="0.95"/>
+</svg>
